@@ -163,7 +163,7 @@ AS2_Framework/
 
 | Deferred Lighting | SSAO | SSR | God Rays |
 |---|---|---|---|
-| ![](images/lighting.png) | ![](docs/ssao.png) | ![](docs/ssr.png) | ![](docs/godrays.png) |
+| ![](images/lighting.png) | ![](images/ssao.png) | ![](images/ssr.png) | ![](images/godrays.png) |
 
 ---
 
