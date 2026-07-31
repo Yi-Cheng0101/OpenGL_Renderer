@@ -1,4 +1,4 @@
-# 🎮 OpenGL Deferred Renderer
+# OpenGL Deferred Renderer
 
 A real-time 3D renderer built with **OpenGL 3.3 Core Profile**, featuring a full deferred shading pipeline with physically-based lighting, post-processing effects, and an interactive ImGui debug interface.
 
