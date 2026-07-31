@@ -159,7 +159,7 @@ AS2_Framework/
 
 ## 📸 Screenshots
 
-> _Add screenshots of your renderer here_
+> Deferred Lighting
 
 | Deferred Lighting | SSAO | SSR | God Rays |
 |---|---|---|---|
